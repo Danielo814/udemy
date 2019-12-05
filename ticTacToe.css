@@ -2,6 +2,10 @@ div {
   text-align: center;
 }
 
+table {
+  text-align: center;
+}
+
 td {
   width: 100px;
   height: 100px;
@@ -10,4 +14,8 @@ td {
 .vertical {
   border-left: 1px solid black;
   border-right: 1px solid black;
+}
+
+.horizontal {
+  border-bottom: 1px solid black;
 }
